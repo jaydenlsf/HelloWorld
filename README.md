@@ -15,3 +15,7 @@
 
 4. Run the app
    - in the command prompt `dotnet watch run`
+
+### Preview
+
+![image](https://user-images.githubusercontent.com/54101378/138189794-026691e7-00cd-4fff-8ff7-2769725af3f7.png)
